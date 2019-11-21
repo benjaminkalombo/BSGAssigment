@@ -1,4 +1,7 @@
 
+BUILD:
+run mvn clean install
+
 AnagramProcess => process the word and find all anagram
 DictionaryLoad => Loads the dictionary into HashMap and sorts the dictionary for fast retrival thus reducing the time complexity
 
