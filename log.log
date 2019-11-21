@@ -1,0 +1,61 @@
+21-11-2019 22:33:51 INFO  DictionaryLoader:24 - reading from file...starting at: 1574368431824
+21-11-2019 22:33:52 INFO  DictionaryLoader:43 - done reading from file finished at: 1574368432193
+21-11-2019 22:33:52 INFO  DictionaryLoader:44 - total time to load dictionary: 3148736864017
+21-11-2019 22:36:07 INFO  DictionaryLoader:24 - reading from file...starting at: 1574368567600
+21-11-2019 22:36:08 INFO  DictionaryLoader:43 - done reading from file finished at: 1574368568553
+21-11-2019 22:36:08 INFO  DictionaryLoader:44 - total time to load dictionary: 3148737136153
+21-11-2019 22:38:40 INFO  DictionaryLoader:25 - reading from file...starting at: 1574368720748
+21-11-2019 22:38:41 INFO  DictionaryLoader:47 - done reading from file finished at: 1574368721456
+21-11-2019 22:38:41 INFO  DictionaryLoader:48 - total time to load dictionary: 3148737442204
+21-11-2019 22:41:29 INFO  DictionaryLoader:25 - reading from file...starting at: 96084058043852
+21-11-2019 22:41:30 INFO  DictionaryLoader:47 - done reading from file finished at: 96084602548575
+21-11-2019 22:41:30 INFO  DictionaryLoader:48 - total time to load dictionary: 192168660592427
+21-11-2019 22:46:11 INFO  DictionaryLoader:26 - reading from file...starting at: 1574369171
+21-11-2019 22:46:12 INFO  DictionaryLoader:48 - done reading from file finished at: 1574369172
+21-11-2019 22:46:12 INFO  DictionaryLoader:49 - total time to load dictionary: 3148738343
+21-11-2019 22:52:19 INFO  DictionaryLoader:26 - reading from file...starting at: 1574369539
+21-11-2019 22:52:20 INFO  DictionaryLoader:48 - done reading from file finished at: 1574369540
+21-11-2019 22:52:20 INFO  DictionaryLoader:49 - total time to load dictionary: 3148739079
+21-11-2019 22:52:27 INFO  DictionaryLoader:26 - reading from file...starting at: 1574369547
+21-11-2019 22:52:28 INFO  DictionaryLoader:48 - done reading from file finished at: 1574369548
+21-11-2019 22:52:28 INFO  DictionaryLoader:49 - total time to load dictionary: 3148739095
+21-11-2019 22:59:07 INFO  DictionaryLoader:26 - reading from file...starting at: 1574369947
+21-11-2019 22:59:08 INFO  DictionaryLoader:48 - done reading from file finished at: 1574369948
+21-11-2019 22:59:08 INFO  DictionaryLoader:49 - total time to load dictionary: 3148739895
+21-11-2019 22:59:12 INFO  DictionaryLoader:26 - reading from file...starting at: 1574369952
+21-11-2019 22:59:12 INFO  DictionaryLoader:48 - done reading from file finished at: 1574369952
+21-11-2019 22:59:12 INFO  DictionaryLoader:49 - total time to load dictionary: 3148739904
+21-11-2019 23:00:26 INFO  DictionaryLoader:26 - reading from file...starting at: 1574370026
+21-11-2019 23:00:27 INFO  DictionaryLoader:48 - done reading from file finished at: 1574370027
+21-11-2019 23:00:27 INFO  DictionaryLoader:49 - total time to load dictionary: 3148740053
+21-11-2019 23:00:34 INFO  DictionaryLoader:26 - reading from file...starting at: 1574370034
+21-11-2019 23:00:35 INFO  DictionaryLoader:48 - done reading from file finished at: 1574370035
+21-11-2019 23:00:35 INFO  DictionaryLoader:49 - total time to load dictionary: 3148740069
+21-11-2019 23:16:38 INFO  DictionaryLoader:26 - reading from file...starting at: 1574370998
+21-11-2019 23:16:39 INFO  DictionaryLoader:48 - done reading from file finished at: 1574370999
+21-11-2019 23:16:39 INFO  DictionaryLoader:49 - total time to load dictionary: 3148741997
+21-11-2019 23:16:39 INFO  DictionaryLoader:26 - reading from file...starting at: 1574370999
+21-11-2019 23:16:39 INFO  DictionaryLoader:48 - done reading from file finished at: 1574370999
+21-11-2019 23:16:39 INFO  DictionaryLoader:49 - total time to load dictionary: 3148741998
+21-11-2019 23:25:16 INFO  DictionaryLoader:26 - reading from file...starting at: 1574371516
+21-11-2019 23:25:16 INFO  DictionaryLoader:48 - done reading from file finished at: 1574371516
+21-11-2019 23:25:16 INFO  DictionaryLoader:49 - total time to load dictionary: 3148743032
+21-11-2019 23:25:16 INFO  DictionaryLoader:26 - reading from file...starting at: 1574371516
+21-11-2019 23:25:17 INFO  DictionaryLoader:48 - done reading from file finished at: 1574371517
+21-11-2019 23:25:17 INFO  DictionaryLoader:49 - total time to load dictionary: 3148743033
+21-11-2019 23:25:38 INFO  DictionaryLoader:26 - reading from file...starting at: 1574371538
+21-11-2019 23:25:39 INFO  DictionaryLoader:48 - done reading from file finished at: 1574371539
+21-11-2019 23:25:39 INFO  DictionaryLoader:49 - total time to load dictionary: 3148743077
+21-11-2019 23:25:39 INFO  DictionaryLoader:26 - reading from file...starting at: 1574371539
+21-11-2019 23:25:39 INFO  DictionaryLoader:48 - done reading from file finished at: 1574371539
+21-11-2019 23:25:39 INFO  DictionaryLoader:49 - total time to load dictionary: 3148743078
+21-11-2019 23:33:13 INFO  AnagramProcess:74 - Anagram Results (completed in: 0
+21-11-2019 23:34:26 INFO  AnagramProcess:74 - Anagram Results completed in: 3148744132 ms)
+21-11-2019 23:40:12 INFO  AnagramProcess:74 - Anagram Results completed in: 3148744824 ms)
+21-11-2019 23:40:12 INFO  AnagramProcess:31 - Words with the character length of 4had 44333322112222111111anagram
+21-11-2019 23:40:34 INFO  AnagramProcess:74 - Anagram Results completed in: 3148744868 ms)
+21-11-2019 23:40:34 INFO  AnagramProcess:31 - Word with the character length of 4 had 44333322112222111111anagram
+21-11-2019 23:40:44 INFO  AnagramProcess:74 - Anagram Results completed in: 3148744888 ms)
+21-11-2019 23:40:44 INFO  AnagramProcess:31 - Word with the character length of 4 had 44333322112222111111 anagram
+21-11-2019 23:53:36 INFO  AnagramProcess:75 - Anagram Results completed in: 3148746432 ms)
+21-11-2019 23:53:36 INFO  AnagramProcess:26 - Word with the character length of 4 had 44333322112222111111 anagram
